@@ -21,4 +21,18 @@
             <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
         </license>
     </licenses>
+
+    <distributionManagement>
+        <repository>
+            <id>jboss-releases-repository</id>
+            <name>JBoss Release Repository</name>
+            <url>https://repository.jboss.org/nexus/service/local/staging/deploy/maven2/</url>
+        </repository>
+    </distributionManagement>
+    <scm>
+        <connection>scm:git:https://github.com/jbosstm/narayana-checkstyle-config.git</connection>
+        <url>https://github.com/jbosstm/narayana-checkstyle-config</url>
+        <developerConnection>scm:git:https://github.com/jbosstm/narayana-checkstyle-config.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 </project>
