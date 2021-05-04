@@ -30,9 +30,9 @@
         </repository>
     </distributionManagement>
     <scm>
-        <connection>scm:git:git@github.com:jbosstm/narayana-checkstyle-config.git</connection>
+        <connection>scm:git:https://github.com/jbosstm/narayana-checkstyle-config.git</connection>
         <url>https://github.com/jbosstm/narayana-checkstyle-config</url>
-        <developerConnection>scm:git:https://github.com/jbosstm/narayana-checkstyle-config.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:jbosstm/narayana-checkstyle-config.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 </project>
