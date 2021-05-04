@@ -12,6 +12,8 @@
     <artifactId>narayana-checkstyle-config</artifactId>
     <name>Narayana: Checkstyle Configuration</name>
     <version>1.0.1.Final-SNAPSHOT</version>
+    <url>https://github.com/jbosstm/narayana-checkstyle-config</url>
+    <description>Checkstyle configuration for Narayana (https://narayana.io) projects</description>
 
     <licenses>
         <license>
@@ -19,6 +21,30 @@
             <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
         </license>
     </licenses>
+
+    <developers>
+        <developer>
+            <id>mmusgrov</id>
+            <name>Michael Musgrove</name>
+            <email></email>
+            <organization>Red Hat</organization>
+            <organizationUrl>https://www.redhat.com</organizationUrl>
+        </developer>
+        <developer>
+            <id>ochaloup</id>
+            <name>Ondra Chaloupka</name>
+            <email>ochaloup@redhat.com</email>
+            <organization>Red Hat</organization>
+            <organizationUrl>https://www.redhat.com</organizationUrl>
+        </developer>
+        <developer>
+            <id>jfinelli</id>
+            <name>Manuel Finelli</name>
+            <email>jfinelli@redhat.com</email>
+            <organization>Red Hat</organization>
+            <organizationUrl>https://www.redhat.com</organizationUrl>
+        </developer>
+    </developers>
 
     <distributionManagement>
         <repository>
