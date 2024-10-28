@@ -15,12 +15,13 @@
     <url>https://github.com/jbosstm/narayana-checkstyle-config</url>
     <description>Checkstyle configuration for Narayana (https://narayana.io) projects</description>
 
-    <licenses>
-        <license>
-            <name>LGPL 2.1</name>
-            <url>http://www.gnu.org/licenses/lgpl-2.1.html</url>
-        </license>
-    </licenses>
+  <licenses>
+    <license>
+      <name>Apache-2.0</name>
+      <url>https://www.apache.org/licenses/LICENSE-2.0.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
 
     <developers>
         <developer>
